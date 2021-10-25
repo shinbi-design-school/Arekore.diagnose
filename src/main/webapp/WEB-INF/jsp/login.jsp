@@ -33,7 +33,7 @@
 				<input type="text" name="name">
 				
 				<div id="buttons">
-				<input type="submit" value="診断する診断する診断する診断する診断する診断する診断する診断する診断する診断する診断する">
+				<input type="submit" value="診断する">
 			</div>
 		</form>
 	</body>
