@@ -137,6 +137,136 @@
 			<connections>
 			</connections>
 			<display>false</display>
+<<<<<<< HEAD
+			<creation_date>2021-10-18 10:40:55</creation_date>
+			<updated_date>2021-10-19 11:20:58</updated_date>
+			<model_property>
+				<name>プロジェクト名</name>
+				<value></value>
+			</model_property>
+			<model_property>
+				<name>モデル名</name>
+				<value></value>
+			</model_property>
+			<model_property>
+				<name>バージョン</name>
+				<value></value>
+			</model_property>
+			<model_property>
+				<name>会社名</name>
+				<value></value>
+			</model_property>
+			<model_property>
+				<name>作成者</name>
+				<value></value>
+			</model_property>
+		</model_properties>
+		<table_properties>
+			<schema></schema>
+			<character_set></character_set>
+			<collation></collation>
+			<storage_engine></storage_engine>
+			<primary_key_length_of_text>null</primary_key_length_of_text>
+		</table_properties>
+		<environment_setting>
+			<environment>
+				<id>0</id>
+				<name>デフォルト</name>
+			</environment>
+		</environment_setting>
+	</settings>
+	<dictionary>
+	</dictionary>
+	<tablespace_set>
+	</tablespace_set>
+	<contents>
+		<table>
+			<id>0</id>
+			<height>145</height>
+			<width>184</width>
+				<font_name>Yu Gothic UI</font_name>
+				<font_size>9</font_size>
+			<x>416</x>
+			<y>252</y>
+			<color>
+				<r>128</r>
+				<g>128</g>
+				<b>192</b>
+			</color>
+			<connections>
+			</connections>
+			<physical_name>result</physical_name>
+			<logical_name>新規テーブル</logical_name>
+			<description></description>
+			<constraint></constraint>
+			<primary_key_name></primary_key_name>
+			<option></option>
+			<columns>
+			</columns>
+			<indexes>
+			</indexes>
+			<complex_unique_key_list>
+			</complex_unique_key_list>
+			<table_properties>
+				<schema></schema>
+				<character_set></character_set>
+				<collation></collation>
+				<storage_engine></storage_engine>
+				<primary_key_length_of_text>null</primary_key_length_of_text>
+			</table_properties>
+		</table>
+		<table>
+			<id>1</id>
+			<height>136</height>
+			<width>187</width>
+				<font_name>Yu Gothic UI</font_name>
+				<font_size>9</font_size>
+			<x>414</x>
+			<y>57</y>
+			<color>
+				<r>128</r>
+				<g>128</g>
+				<b>192</b>
+			</color>
+			<connections>
+			</connections>
+			<physical_name>question</physical_name>
+			<logical_name>新規テーブル</logical_name>
+			<description></description>
+			<constraint></constraint>
+			<primary_key_name></primary_key_name>
+			<option></option>
+			<columns>
+			</columns>
+			<indexes>
+			</indexes>
+			<complex_unique_key_list>
+			</complex_unique_key_list>
+			<table_properties>
+				<schema></schema>
+				<character_set></character_set>
+				<collation></collation>
+				<storage_engine></storage_engine>
+				<primary_key_length_of_text>null</primary_key_length_of_text>
+			</table_properties>
+		</table>
+		<table>
+			<id>2</id>
+			<height>145</height>
+			<width>185</width>
+				<font_name>Yu Gothic UI</font_name>
+				<font_size>9</font_size>
+			<x>84</x>
+			<y>252</y>
+			<color>
+				<r>128</r>
+				<g>128</g>
+				<b>192</b>
+			</color>
+			<connections>
+			</connections>
+			<physical_name>choice</physical_name>
+=======
 			<creation_date>2021-10-14 14:13:51</creation_date>
 			<updated_date>2021-10-14 15:46:27</updated_date>
 			<model_property>
@@ -265,6 +395,7 @@
 			<connections>
 			</connections>
 			<physical_name>NEW_TABLE</physical_name>
+>>>>>>> branch 'master' of git@github.com:shinbi-design-school/Arekore.diagnose.git
 			<logical_name>新規テーブル</logical_name>
 			<description></description>
 			<constraint></constraint>
